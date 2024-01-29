@@ -1,6 +1,4 @@
 # Intro
-"Claim" structures the land and work required for groups to own and control essential supply chains.
-
 Each Claim token represents 1 M² of real land ownership held under these terms.
 
 The total supply of Claim is hard-capped by the real surface area of the planet ~ 510T M².
