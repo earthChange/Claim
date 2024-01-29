@@ -1,19 +1,26 @@
 # Intro
-The Claim system is a business model and token used to structure the land and work required for real world production.
+"Claim" structures the land and work required for groups to own and control essential supply chains.
 
-Each Token represents 1 M² of Land ownership.
+Each Claim token represents 1 M² of real land ownership held under these terms.
 
-# Options
-1. SIGN | 1 Year Contract for 365.25 Tokens.
-2. PLAN | Request the future Production you want.
-3. MOVE | Choose the location you want to live.
+The total supply of Claim is hard-capped by the real surface area of the planet ~ 510T M².
 
-# Legal Instruments
-1. Contract to Work for 1 Year.
-2. Deed of property ownership of Land.
-3. Coupon redeemable for future Production.
+# Legal Documents
+1. Contract: Agreement to Work for 1 Year.
+2. Deed: Property ownership of Land.
+3. Coupon: Ticket redeemable for future Production.
 
-# States / Maturity
+# Actions
+. MOVE - Choose or propose Land for acquisition.
+. PLAN - Choose or propose the Coupons you want.
+. SIGN - Receive 365.25 unvested Tokens.
+. WORK - Attempt to FULFILL your Contract.
+.. Wait for other Contracts in you supply-chain to be FULFILLED.
+.. Wait for Coupon holders MARK the Coupon or timeout.
+. MARK - Set Coupon state as FULFILLED or BREACHED.
+. VEST - Receive Deeds when Coupons are FULFILLED. 
+
+# States & Maturity
 1. Work: UNSCHEDULED, SCHEDULED, FULFILLED, BREACHED
-2. Land: UNHELD, HELD, UNALLOCATED, ALLOCATED, UNVESTED, VESTED, SEIZED
+2. Land: UNHELD, HELD, UNPLANNED, PLANNED, UNVESTED, VESTED
 3. Production: UNPLANNED, PLANNED, UNSCHEDULED, SCHEDULED, FULFILLED, BREACHED
