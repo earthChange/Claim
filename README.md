@@ -6,7 +6,7 @@ The total supply of Claim is hard-capped by the real surface area of the planet 
 # Legal Documents
 - Contract - Agreement for 1 year of Work.
 - Deed - Property ownership of Land.
-- Coupon - Ticket redeemable for future Production.
+- Coupon - Ticket redeemable for Production.
 
 # Actions
 - MOVE - Choose or propose Land for acquisition.
