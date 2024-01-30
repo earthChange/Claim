@@ -4,7 +4,7 @@ Each Claim token represents 1 M² of real land ownership held under these terms.
 The total supply of Claim is hard-capped by the real surface area of the planet ~ 510T M².
 
 # Legal Documents
-- Contract - Agreement for 1 year of Work.
+- Contract - Agreement to work for 1 year.
 - Deed - Property ownership of Land.
 - Coupon - Ticket redeemable for Production.
 
@@ -14,9 +14,8 @@ The total supply of Claim is hard-capped by the real surface area of the planet 
 - SIGN - Sign a Contract to gain 365.25 unvested Tokens.
 - WORK - Attempt to FULFILL your Contract during the year.
   - WAIT for other Contracts to be FULFILLED.
-  - WAIT for Coupon holders to MARK Coupons.
-- MARK - Set Coupon state to FULFILLED or BREACHED.
-- VEST - Contract holders gain Deeds as Coupons are FULFILLED.
+  - WAIT for Coupon holders to report Coupon as FULFILLED or BREACHED.
+- VEST - You gain Deeds as Coupons are FULFILLED.
 
 # States & Maturity
 - Contract - UNPLANNED, PLANNED, UNSCHEDULED, SCHEDULED, UNSIGNED, SIGNED, FULFILLED, BREACHED
