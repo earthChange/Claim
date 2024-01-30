@@ -1,22 +1,20 @@
 # Intro
-Each Claim token represents 1 M² of real land ownership held under these terms.
+The Claim token represents 1 M² of real land ownership held under these terms.
+The Claim total supply is hard-capped by the number of M² on Earth ~ 510T M².
 
-The total supply of Claim is hard-capped by the real surface area of the planet ~ 510T M².
+# Legal 
+- Deed - Property ownership of land, at a specific location.
+- Contract - Commitment to fulfill a specific kind of work.
+- Coupon - Redeemable for a specific kind of good or service.
 
-# Legal
-- Coupon - Redeemable for 1 specific good or service.
-- Contract - Commit to specific work for 1 year.
-- Deed - Property ownership of land.
+# Options
+- PLAN - Select all the many Coupons you want.
+- PLAN - Select any single Contract you qualify for.
+- SIGN - Sign that Contract to "pay for" those Coupons.
+- GAIN - Every day you FULFILL your Contract, you gain 1 Claim.
+- VEST - As Coupons are FULFILLED, you gain the Deeds of your Claims.
 
-# Actions
-- PLAN - Choose or propose the Coupons you want.
-- SIGN - Sign a Contract to Work.
-- WORK - FULFILL your Contract each day to gain 1 Claim.
-  - WAIT for all other Contracts in this supply chain to be FULFILLED.
-  - WAIT for Coupon holders to report Coupon state.
-- VEST - Gain Deeds as Coupons are FULFILLED.
-
-# States & Maturity
-- Contract - UNPLANNED, PLANNED, UNSCHEDULED, SCHEDULED, UNSIGNED, SIGNED, FULFILLED, BREACHED
+# States
 - Deed - UNHELD, HELD, UNPLANNED, PLANNED, UNVESTED, VESTED
-- Coupon - UNPLANNED, PLANNED, UNSCHEDULED, SCHEDULED, FULFILLED, BREACHED
+- Contract - UNPLANNED, PLANNED, UNSCHEDULED, SCHEDULED, UNSIGNED, SIGNED, FULFILLED, BREACHED
+- Coupon - UNPLANNED, PLANNED, UNSCHEDULED, SCHEDULED, UNFULFILLED, FULFILLED, BREACHED
