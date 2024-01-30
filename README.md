@@ -9,13 +9,13 @@ The total supply of Claim is hard-capped by the real surface area of the planet 
 - Coupon - Ticket redeemable for Production.
 
 # Actions
-- MOVE - Choose or propose Land for acquisition.
+- MOVE - Choose or propose Deed location.
 - PLAN - Choose or propose the Coupons you want.
-- SIGN - Sign a Contract to gain 365.25 unvested Tokens.
-- WORK - Attempt to FULFILL your Contract during the year.
-  - WAIT for other Contracts to be FULFILLED.
-  - WAIT for Coupon holders to report Coupon as FULFILLED or BREACHED.
-- VEST - You gain Deeds as Coupons are FULFILLED.
+- SIGN - Sign a Contract to Work.
+- WORK - Gain 1 Claim each day you FULFILL your Contract.
+  - WAIT for all other Contracts in this supply chain to be FULFILLED.
+  - WAIT for Coupon holders to report Coupon state.
+- VEST - Gain Deeds as Coupons are FULFILLED.
 
 # States & Maturity
 - Contract - UNPLANNED, PLANNED, UNSCHEDULED, SCHEDULED, UNSIGNED, SIGNED, FULFILLED, BREACHED
