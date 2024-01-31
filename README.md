@@ -7,7 +7,7 @@ The total supply is hard-capped by the total number of M² on Earth ~ 510T M².
 - Coupon - Redeemable for a specific kind of good or service.
 
 # Terms
-- SHOP - You may select the many different Coupons you want.
-- SIGN - You may sign one specific Contract to "buy" those Coupons.
-- GAIN - You gain 1 Claim each day your Contract is not BREACHED.
-- VEST - You gain land ownership unless Coupons are BREACHED.
+- SHOP - Select the many different Coupons you want.
+- SIGN - Sign one specific Contract to "buy" those Coupons.
+- GAIN - Gain 1 Claim each day your Contract is not BREACHED.
+- VEST - Gain land ownership unless Coupons are BREACHED.
