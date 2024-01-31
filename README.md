@@ -1,6 +1,6 @@
 # Intro
-The Claim token represents 1 M² of real land ownership held under these terms.
-The total supply is hard-capped by the total number of M² on Earth ~ 510T M².
+- The Claim token represents 1 M² of real land ownership held under these terms.
+- The total supply is hard-capped by the total number of M² on Earth ~ 510T M².
  
 # Legal 
 - Contract - Commitment to fulfill a specific kind of work.
