@@ -2,7 +2,7 @@
 Claim coin represents 1 M² of real land ownership held under these terms.
 
 # Supply
-The total supply is limited by the total number of M² on Earth ~ 510T M².
+The total supply is limited by the total M² of Earth, est. 510T M².
  
 # Legal
 - Contract - A commitment to fulfill a specific kind of work.
