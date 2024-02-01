@@ -15,4 +15,3 @@
 - You may select or create any kind of **Coupon**.
 - You earn **Claim** tokens incrementally as your **Contract** is fullfilled.
 - You earn **Deeds** as {the **Coupons** you helped produce} are finally marked as 'fulfilled' by the **Coupon** holder, or after some *arbitrarily negotiated* timeout.
-- 
