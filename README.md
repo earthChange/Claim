@@ -1,15 +1,17 @@
 # Intro
-Claim coin represents 1 M² of real land ownership held under these terms.
+Claim helps build and maintain essential supply chains.
 
-# Supply
-The total supply is limited by the total M² of Earth, est. 510T M².
- 
+# Token
+- Claim - 1 M² of land held under these Terms.
+- Total Supply - The total number of M² of land.
+- Circulating Supply - The number of M² under these Terms.
+
 # Legal
-- Contract - A commitment to fulfill a specific kind of work.
-- Coupon - Redeemable for a specific kind of good or service.
+- Coupon - A request for a specific good or service.
+- Contract - A commitment to produce a specific Coupon in return for a specific amount of Claim.
+- Deed - A title of land ownership and right to exclude.
 
 # Terms
-- SHOP - Select the many different Coupons you want.
-- SIGN - Sign a specific Contract to "buy" those Coupons.
-- EARN - Gain 1 Claim each day your Contract is FULFILLED.
-- VEST - Gain land ownership as Coupons are FULFILLED.
+- You may select or create any kind of Coupon.
+- You earn Claim as your Contract is fulfilled.
+- Deeds vest to you as Coupons are fulfilled.
