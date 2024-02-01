@@ -14,4 +14,4 @@
 # Terms
 - You may select or create any kind of **Coupon**.
 - You earn **Claim** tokens incrementally as your **Contract** is fullfilled.
-- You earn **Deeds** as {the **Coupons** you helped produce} are finally fulfilled, or after some *arbitrarily negotiated* timeout.
+- You earn **Deeds** as the **Coupons** you helped produce are finally fulfilled, or after some *arbitrarily negotiated* timeout.
