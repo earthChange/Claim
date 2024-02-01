@@ -3,8 +3,8 @@
 
 # Token
 - **Claim** - Any square meter (M²) of land.
-  - Total Supply - The total number of M² of land on Earth.
-  - Circulating Supply - The number of M² under these Terms.
+  - Total upply is the total number of M² of land on Earth.
+  - Circulating supply is the number of M² under these Terms.
 
 # Model
 - **Coupon** - A request to produce a specific good or service.
