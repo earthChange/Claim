@@ -1,5 +1,5 @@
 # Intro
-**Claim** is a token and business model to build and maintain user-owned supply-chains.
+**Claim** is a coin and plan to build and maintain user-owned supply-chains.
 
 # Token
 - **Claim** - Any square meter (M²) of land.
