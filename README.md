@@ -3,8 +3,8 @@
 
 # Coin
 - **Claim** - Any square meter (M²) of land.
-  - Total supply is the total number of M² of land on Earth.
-  - Circulating supply is the number of M² under these Terms.
+  - Total supply is the total M² of land on Earth.
+  - Circulating supply is the M² under these Terms.
 
 # Plan
 - **Coupon** - A request to produce a specific good or service.  Each **Coupon** requires many **Contracts** and **Deeds**.
